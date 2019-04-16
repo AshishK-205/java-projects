@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleLibraryManagement:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleLibraryManagement_jar2</output-path>
+    <root id="archive" name="SimpleLibraryManagement.jar">
+      <element id="module-output" name="SimpleLibraryManagement" />
+      <element id="extracted-dir" path="D:/Software/jars files for eclipse/mysql connector/2.1 mysql-connector-java-5.1.39-bin.jar.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
